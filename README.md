@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="" title="ReactJS_Components" src=".github/demostration_aplication_1.jpeg" width="320px" />
+  <img alt="" title="ReactJS_Components" src=".github/demostration_aplication_1.png" width="320px" />
   <br>
   Hardware and software prototyping of a robotic manipulator
 </h1>

@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="justify">
-Demonstration of electronically prototyped hardware and software aiming at the functionality of a robotic manipulator using AutoDesk TinkerCad application and C++ programming language. Credits for an integrated project of the Electrical Engineering Integrator Project subject of the Electrical Engineering course at Universidade Cruzeiro do Sul.
+Demonstration of electronically prototyped hardware and software aiming at the functionality of a robotic manipulator using AutoDesk TinkerCad application and C programming language. Credits for an integrated project of the Electrical Engineering Integrator Project subject of the Electrical Engineering course at Universidade Cruzeiro do Sul.
 </h3>
 
 <br>
@@ -22,7 +22,7 @@ Demonstration of electronically prototyped hardware and software aiming at the f
 
 This project was developed with the following technologies:
 
-- C++
+- C
 - TinkerCAD
 
 ## ⚙ Sources and Documentation

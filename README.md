@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="" title="ReactJS_Components" src=".github/demostration_aplication_1.png" width="320px" />
   <br>
-  Hardware and software prototyping of a robotic manipulator - Veersion with Potentiometer
+  Hardware and software prototyping of a robotic manipulator - Version with Potentiometer
 </h1>
 
 <h3 align="justify">
